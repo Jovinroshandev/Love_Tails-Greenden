@@ -3,7 +3,8 @@
 A beautifully designed **dog website** offering services like **dog grooming, training, adoption, and sales**. Built with **HTML, CSS, and Tailwind CSS**, this website ensures a **responsive and user-friendly experience** for dog lovers.  
 
 ## 🚀 Screenshot  
-![LoveTails Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/41927a43-8094-4b71-844e-42fed97452cb)
+
 
 ## Features  
 ✅ Modern & Responsive Design  
